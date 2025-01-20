@@ -26,7 +26,7 @@ document.querySelectorAll(".card").forEach(card => {
     }
   });
   // Typewriter effect
-  const heroText = "Welcome to the Future of Web Design";
+  const heroText = "Welcome to Afolarin the Future of Web Designer";
   let index = 0;
   
   function typeWriter() {
